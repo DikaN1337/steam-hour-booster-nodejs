@@ -1,0 +1,3 @@
+module.exports.customgames = [
+'Idling'
+];

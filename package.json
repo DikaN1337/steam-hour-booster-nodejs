@@ -1,0 +1,33 @@
+{
+    "name": "Bot",
+    "version": "1.1.0",
+    "description": "Steam Bot",
+    "main": "index.js",
+    "author": "DikaN",
+    "dependencies": {
+        "better-sqlite3": "^5.4.0",
+        "body-parser": "^1.19.0",
+        "chalk": "^2.4.2",
+        "crypto": "^1.0.1",
+        "express": "^4.17.0",
+        "express-handlebars": "^3.1.0",
+        "fs": "0.0.1-security",
+        "http": "0.0.0",
+        "mysql": "^2.17.1",
+        "protobufjs": "^6.8.8",
+        "sleep": "^6.1.0",
+        "steam": "^1.4.1",
+        "steam-client": "^2.5.7",
+        "steam-market": "0.0.1",
+        "steam-resources": "^1.0.0",
+        "steam-totp": "^2.1.0",
+        "steam-tradeoffer-manager": "^2.9.5",
+        "steam-tradeoffers": "^3.1.1",
+        "steam-user": "^3.29.3",
+        "steam-web-api-key": "0.0.3",
+        "steamapi.io": "^1.0.0",
+        "steamcommunity": "^3.37.1",
+        "steamid": "^1.1.0",
+        "steamrep": "^1.0.1"
+    }
+}
